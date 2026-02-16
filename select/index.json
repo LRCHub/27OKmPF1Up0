@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Lovely Girls Anthem",
+  "base_artist": "麻生夏子",
+  "createdAt": "2026-02-16T10:55:41.681012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lovely Girls Anthem",
+      "artist": "麻生夏子",
+      "has_synced": false,
+      "path": "select/01_Lovely_Girls_Anthem_麻生夏子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovely Girls Anthem",
+      "artist": "麻生夏子",
+      "has_synced": false,
+      "path": "select/pl_01_Lovely_Girls_Anthem_麻生夏子.txt"
+    }
+  ]
+}
